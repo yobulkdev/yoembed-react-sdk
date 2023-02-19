@@ -1,6 +1,6 @@
 {
   "name": "yoembed",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "description": "Sdk to embed the yobulk csv uploader",
   "main": "build/index.js",
   "module": "build/index.js",

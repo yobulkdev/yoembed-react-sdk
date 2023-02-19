@@ -1,8 +1,8 @@
 #### Notes
 
-yoembed-react-sdk is a reack SDK.
+yoembed is a reack SDK.
 
-Any react app can integrate the yoembed-react-sdk into their application and create an embeddable import button.
+Any react app can integrate the yoembed sdk into their application and create an embeddable import button.
 Please look into the sample Importer App to know about the usage of yoembed-react-sdk.
 
 ## Install
